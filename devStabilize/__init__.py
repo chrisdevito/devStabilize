@@ -1,0 +1,5 @@
+__author__ = "Christopher DeVito"
+__email__ = "theflexmaster@gmail.com"
+__version__ = "0.1.0"
+__license__ = "MIT"
+__description__ = "Inverts the animation of an object to a camera."
