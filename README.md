@@ -1,8 +1,6 @@
 devStabilize
 =============
 
-..
-
 	from devStabilize import ui
 
 	if __name__ == '__main__':
